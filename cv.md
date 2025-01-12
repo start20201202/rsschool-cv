@@ -64,3 +64,8 @@ $("html").mousemove(function (event) { $("#heading").offset ({ left: event.pageX
 
 ### English 
 Certificate Intermediate level - Yappi (january 2024)
+
+---
+
+### My work 
+[Certificate Intermediate level - Yappi (january 2024)](https://app.powerbi.com/view?r=eyJrIjoiYWE3MDBlMzktYWJlNy00OTI2LWE5MzMtNzBkMTY3M2E5NjY4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
