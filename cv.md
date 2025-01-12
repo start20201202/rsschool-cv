@@ -16,6 +16,7 @@
 **Email:** start20201202@gmail.com
 
 **Linkedin:** https://www.linkedin.com/in/lehka-tetiana-84113a273/
+
 ---
 
 ### Tech Skills 
