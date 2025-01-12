@@ -15,17 +15,11 @@
 
 **Email:** start20201202@gmail.com
 
+**Linkedin:** https://www.linkedin.com/in/lehka-tetiana-84113a273/
 ---
 
 ### Tech Skills 
 Excel, PostgreSQL(writing complex scripts), Oracle PL/SQL (create/insert/delete/select table, writing procedures, jobs), Google Sheets, Power BI, Jira, 1С, GitHub, HTML, CSS, MS Visual Studio, Python Pandas, NumPy, Matplotlib, Seaborn.
-
----
-
-### Code 
-```javascript 
-$("html").mousemove(function (event) { $("#heading").offset ({ left: event.pageX, top: event.pageY }); }); 
-```
 
 ---
 
