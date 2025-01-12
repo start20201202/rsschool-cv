@@ -1,7 +1,7 @@
 
 
 ---
-# Power BI Developer, 2500 usd
+# Power BI Developer
 
 ----
 
