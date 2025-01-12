@@ -1,7 +1,7 @@
 
 
 ---
-# Resume
+# Resume Power BI Developer
 
 ----
 
@@ -14,12 +14,6 @@
 **Mobile tel:** +38 097-625-85-08
 
 **Email:** start20201202@gmail.com
-
----
-
-### Summary
-
-I love studying and want to become a Java Script Developer.
 
 ---
 
@@ -63,10 +57,10 @@ $("html").mousemove(function (event) { $("#heading").offset ({ left: event.pageX
 ---
 
 ### Education 
-* National Academy of Statistics, Accounting and Auditing 
-* GoIT - Certificate English HTML
-
+* National Academy of Statistics, Accounting and Auditing, Kyiv, 2007 - 2013 
+* Data Science - Main Academy (10.2023 - 02.2024)
+* English HTML - GoIT (2020)
 ---
 
 ### English 
-Pre-Intermediate
+Certificate Intermediate level - Yappi (january 2024)
