@@ -36,14 +36,19 @@ $("html").mousemove(function (event) { $("#heading").offset ({ left: event.pageX
 ---
 
 ### Experience 
-* "Alfa-Bank" - Chief analyst of financial monitoring
+* "Bank" 02.2024 until today (11 months) - Power BI Developer
+  - holding meetings with the customer to discuss reporting needs;
+  - creating and support of Power BI reports;
+  - writing scripts for sampling data from existing Oracle PL/SQL sources;
+  - creation new sources (create/insert/select table, writing procedures/jobs) from Oracle PL/SQL for Power BI;
+  - creating report descriptions.
+    
 * "Bank" - Power BI Developer
   - holding meetings with the customer to discuss reporting needs;
   - creating and support of Power BI reports;
   - writing scripts for sampling data from existing Oracle PL/SQL sources;
   - creation new sources (create/insert/select table, writing procedures/jobs) from Oracle PL/SQL for Power BI;
   - creating report descriptions.
-
 * "Alfa-Bank" - Leading economist of the Finance Department 
 * Insurance Company "Garant-Auto" - Leading specialist of the department of mutual settlements with intermediaries
 
