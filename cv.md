@@ -1,7 +1,7 @@
 
 
 ---
-# Resume Power BI Developer
+# Power BI Developer, 2500 usd
 
 ----
 
